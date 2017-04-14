@@ -166,11 +166,6 @@
     </ClCompile>
     <ClCompile Include="StackTest.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DataStructures\DataStructures.vcxproj">
-      <Project>{bac41511-c7e0-4c4d-91b4-740c1f936d40}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
